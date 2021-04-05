@@ -1,4 +1,5 @@
 # Mobile-Price-Prediction-using-KNN
+(December 2020)
 
 In this notebook, I solve mobile price classification challenge using K-nearest-neighbors method. You can find the challenge and the data in Kaggle:
 
